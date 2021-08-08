@@ -11,26 +11,22 @@
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Java", "C#", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "mobail dev"],
+    code: ["JavaScript, "PHP"],
+    askMeAbout: ["web dev", "tech", "app dev", "e-commerce"],
     technologies: {
         backEnd: {
-            java: [],
-            php: [],
-            c#: []
+            javaScript: [],
+            php: []        
         },
         frontEnd: {
             js: ["Vue"],
             css: ["materialize", "vuetify", "bootstrap"]
         },
-        mobileApp: {
-            native: ["Android Development"]
-        },
         devOps: ["AWS", "Docker🐳", "Linux", "Nginx"],
         databases: ["postgresql", "MySql", "noSql"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Android Mobile App Development"
+    currentFocus: "Web App Development"
 };
 ```
 ### Some more about me...  
@@ -40,9 +36,8 @@ const anmol = {
 
 💬 Programming Languages: 
 
-    Java 
+    JavaScript 
     PHP
-    C#
 
 💻 Operating System: 
     Linux                      4 years      █████████████████████████   100.0%
